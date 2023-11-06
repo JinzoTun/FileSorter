@@ -6,8 +6,8 @@ import java.nio.file.Paths;
 
 public class FileSorter {
     public static void main(String[] args) {
-        String sourceDirectory = "C:\\Users\\koussay\\Downloads";
-        String destinationDirectory = "C:\\Users\\koussay\\Downloads\\New folder";
+        String sourceDirectory = "";
+        String destinationDirectory = "";
 
         File sourceDir = new File(sourceDirectory);
         File destDir = new File(destinationDirectory);
